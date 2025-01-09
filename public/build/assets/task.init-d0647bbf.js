@@ -1,0 +1,1 @@
+import{d as o}from"./dragula.min-abcc0b51.js";import{Q as t}from"./quill.min-12960bdc.js";import"./dragula.init-060e9984.js";import"./_commonjsHelpers-042e6b4d.js";import"./_commonjs-dynamic-modules-302442b1.js";window.dragula=o;document.addEventListener("DOMContentLoaded",function(){new t("#bubble-editor",{theme:"bubble"})});

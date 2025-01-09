@@ -1,0 +1,1 @@
+import{L as r}from"./ladda.min-e819ffd3.js";import"./spin.min-491b286c.js";import"./_commonjsHelpers-042e6b4d.js";r.bind(".ladda-button",{timeout:2e3});r.bind(".progress-demo .ladda-button",{callback:function(a){var t=0,o=setInterval(function(){t=Math.min(t+Math.random()*.1,1),a.setProgress(t),t===1&&(a.stop(),clearInterval(o))},200)}});
